@@ -1,0 +1,31 @@
+customer_id,join_date,age,city,account_type,credit_score,employment_status
+1,2022-12-08,31,Michaelchester,Checking,373,Student
+2,2022-05-27,32,Port Bethville,Credit,346,Retired
+3,2022-12-28,24,Jerrymouth,Credit,523,Unemployed
+4,2021-06-25,54,North Nicholasside,Savings,306,Retired
+5,2021-08-20,35,Marytown,Savings,847,Employed
+6,2024-06-03,37,West Thomasstad,Checking,644,Employed
+7,2023-11-04,63,Rojasfort,Credit,452,Self-Employed
+8,2022-09-23,19,West Nathan,Credit,649,Self-Employed
+9,2021-06-08,37,Lake Sharon,Credit,691,Self-Employed
+10,2024-07-02,46,Lake Justin,Credit,480,Student
+11,2023-09-30,61,Port Melindaton,Savings,766,Student
+12,2023-08-14,22,South Angelaside,Savings,617,Employed
+13,2025-09-09,56,Brendastad,Savings,654,Student
+14,2024-12-23,23,Lake Howard,Savings,782,Unemployed
+15,2025-07-26,49,Sullivanhaven,Credit,649,Employed
+16,2023-02-28,39,Port Marcus,Credit,579,Self-Employed
+17,2023-07-10,58,Colleenville,Credit,354,Student
+18,2021-05-10,41,East Jasonfurt,Checking,753,Retired
+19,2021-11-30,53,Villegasberg,Checking,539,Student
+20,2025-10-08,45,Mooretown,Credit,678,Student
+21,2024-06-19,37,Lake Timothy,Credit,373,Unemployed
+22,2022-10-28,26,Hannahstad,Savings,811,Retired
+23,2022-04-24,52,Port Patricia,Credit,524,Retired
+24,2023-02-18,72,Brianchester,Savings,843,Unemployed
+25,2024-09-12,54,Timothychester,Savings,449,Retired
+26,2022-11-01,45,Mistyfort,Credit,595,Retired
+27,2025-10-18,39,Denniston,Savings,613,Student
+28,2024-05-03,61,Fosterton,Credit,392,Student
+29,2025-08-20,20,Smithfort,Credit,429,Unemployed
+30,2021-08-08,21,Deckerside,Credit,832,Retired
